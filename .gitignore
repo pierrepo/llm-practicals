@@ -1,0 +1,9 @@
+cours/_build/
+.vscode/
+
+# pixi environments
+.pixi
+*.egg-info
+# pixi environments
+.pixi
+*.egg-info
