@@ -9,7 +9,7 @@
 
 Install [Pixi](https://pixi.sh/latest/).
 
-Compile the practical:
+Compile:
 
 ```bash
 $ pixi run compile
@@ -18,9 +18,8 @@ $ pixi run compile
 The HTML version of the practical is located in the `content/_build/html/index.html` directory.
 
 
-## Licence
+## License
 
-![](cours/img/CC-BY-SA.png)
+![](content/img/CC-BY-SA.png)
 
-Ce contenu est mis à disposition selon les termes de la licence [Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) (CC BY-SA 4.0). Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
-
+This content is licensed under a [Creative Commons Attribution - ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license (CC BY-SA 4.0). Please read the [LICENSE](LICENSE) file for more détails.
