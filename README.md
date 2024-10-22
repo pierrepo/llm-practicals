@@ -23,3 +23,4 @@ The HTML version of the practical is located in the `content/_build/html/index.h
 ![](content/img/CC-BY-SA.png)
 
 This content is licensed under a [Creative Commons Attribution - ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license (CC BY-SA 4.0). Please read the [LICENSE](LICENSE) file for more détails.
+

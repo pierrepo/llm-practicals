@@ -1,4 +1,6 @@
-# Prompt engineering
+# Prompts
+
+## Prompt engineering
 
 1. Create an account on:
     - a commercial platform ([ChaGPT](https://chatgpt.com/) from OpenAI or [Le Chat](https://chat.mistral.ai/) from Mistral AI)

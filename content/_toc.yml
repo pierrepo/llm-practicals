@@ -8,3 +8,5 @@ chapters:
 - file: embeddings
 - file: next_token_prediction
 - file: prompts
+- file: code
+- file: api

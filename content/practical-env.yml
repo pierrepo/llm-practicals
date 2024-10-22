@@ -6,5 +6,12 @@ dependencies:
     - python=3.11
     - pip
     - numpy
+    - jupyterlab
+    - ipywidgets
+    - requests
+    - beautifulsoup4
+    - sentence-transformers
     - pip:
         - tiktoken
+        - groq
+
