@@ -4,7 +4,7 @@
 title: LLM practicals
 author: Pierre Poulain
 logo: img/logo_UPCite.png
-exclude_patterns: [_build, .pixi, "**.ipynb_checkpoints"]
+exclude_patterns: [_build, .pixi, "**.ipynb_checkpoints", gromacs_ref_manual]
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
