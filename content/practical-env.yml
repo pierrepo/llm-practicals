@@ -14,4 +14,6 @@ dependencies:
     - pip:
         - tiktoken
         - groq
+        - openai
+        - markdownify
 
