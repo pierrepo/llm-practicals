@@ -2,6 +2,8 @@ content/_build/
 content/.ipynb_checkpoints/
 .vscode/
 
+content/gromacs_ref_manual*
+
 # pixi environments
 .pixi
 *.egg-info

@@ -8,5 +8,5 @@ chapters:
 - file: embeddings
 - file: next_token_prediction
 - file: prompts
-- file: code
+- file: tokenizer_embeddings_python
 - file: api
