@@ -24,6 +24,11 @@ grandparents twice as much as her parents. How much more
 money does Betty need to buy the wallet?
 ```
 
+```{admonition} Answer
+:class: tip, dropdown
+5
+```
+
 ```
 Julie is reading a 120-page book. Yesterday, she was able to
 read 12 pages and today, she read twice as many pages as 
@@ -31,10 +36,20 @@ yesterday. If she wants to read half of the remaining pages
 tomorrow, how many pages should she read?
 ```
 
+```{admonition} Answer
+:class: tip, dropdown
+42
+```
+
 ```
 John buys 10 packs of magic cards. Each pack has 20 cards
 and 1/4 of those cards are uncommon. How many uncommon cards
 did he get?
+```
+
+```{admonition} Answer
+:class: tip, dropdown
+50
 ```
 
 ```
@@ -44,12 +59,22 @@ price of the bread. He had $15 for his shopping. How much
 money did Paul have left?
 ```
 
+```{admonition} Answer
+:class: tip, dropdown
+6
+```
+
 ```
 Mr. Grey is purchasing gifts for his family. So far he has 
 purchased 3 polo shirts for $26 each; 2 necklaces for $83 
 each; and 1 computer game for $90. Since Mr. Grey purchased 
 all those using his credit card, he received a $12 rebate. 
 What is the total cost of the gifts after the rebate?
+```
+
+```{admonition} Answer
+:class: tip, dropdown
+322
 ```
 
 
