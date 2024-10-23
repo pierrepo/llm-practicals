@@ -21,6 +21,6 @@ This content is licensed under a [Creative Commons Attribution - ShareAlike 4.0 
 
 ## Colophon
 
-This hands-on is built with [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and hosted on sur [GitHub](https://github.com/pierrepo/llm-practicals).
+This hands-on is built with [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and hosted on [GitHub](https://github.com/pierrepo/llm-practicals).
 
 You are welcome to [raise an issue](https://github.com/pierrepo/llm-practicals/issues/new/) or send me an e-mail if you find any error.
