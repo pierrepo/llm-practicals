@@ -3,7 +3,7 @@
 ## Prompt engineering
 
 1. Create an account on:
-    - a commercial platform ([ChatGPT](https://chatgpt.com/) from OpenAI or [Le Chat](https://chat.mistral.ai/) from Mistral AI)
+    - a commercial platform ([ChatGPT](https://chatgpt.com/) from OpenAI, [Le Chat](https://chat.mistral.ai/) from Mistral AI or [Gemini](https://gemini.google.com/app) from Google)
     - an open-source platform (https://llm.mi.parisdescartes.fr/)
 2. Try the same prompt on both platforms. Do some models need more context (i.e. explanations) than others to give expected results?
 3. Evaluate the different models for:
