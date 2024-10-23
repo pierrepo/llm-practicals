@@ -3,10 +3,14 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: tokens
-- file: embeddings
-- file: next_token_prediction
-- file: prompts
-- file: tokenizer_embeddings_python
-- file: api
+parts:
+  - caption: Part 1: no code
+    chapters: 
+    - file: tokens
+    - file: embeddings
+    - file: next_token_prediction
+    - file: prompts
+  - caption: Part 2: with code
+    chapters:
+    - file: tokenizer_embeddings_python
+    - file: api
