@@ -2,7 +2,8 @@
 
 > Tokens, embeddings and prompts: welcome to the world of large language models
 
-<https://pierrepo.github.io/llm-practicals/>
+[Practical](https://pierrepo.github.io/llm-practicals/)
+| [Source](https://github.com/pierrepo/llm-practicals) 
 
 ## Content compilation
 
