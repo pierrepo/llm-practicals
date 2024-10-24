@@ -78,7 +78,7 @@ What is the total cost of the gifts after the rebate?
 ```
 
 
-Most LLMs should succeed in these challenges, mostly because they come from a well-known problem database they could have already been trained on. Try to create your own math problem and find out how LLMs behave. Share your most interesting problems in a shared document.
+Most LLMs should succeed in these challenges, mostly because they come from a well-known dataset ([gsm8k](https://huggingface.co/datasets/openai/gsm8k)) they could have already been trained on. Try to create your own math problem and find out how LLMs behave. Share your most interesting problems in a shared document.
 
 
 ## Difficult questions
@@ -88,7 +88,7 @@ Since LLMs are not able to reason, they can fail on simple questions. Challenge 
 - Give me 10 sentences that end in the word "Apple"
 - Écris 10 phrases qui se terminent par le mot "clavier"
 - How many Rs are in the word "strawberry"?
--  I have 5 shirts that will take 6 hours to dry in the sun. How long will it take 30 shirts to dry?
+- I have 5 shirts that will take 6 hours to dry in the sun. How long will it take 30 shirts to dry?
 - How many words are in your response to this prompt? (by [Matthew Berman](https://x.com/matthewberman/status/1834295485773054312))
 
 
