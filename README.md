@@ -1,6 +1,6 @@
 # LLM practicals
 
-> Tokens, embeddings and prompts: welcome to the world of large language models
+> Tokens, embeddings and prompts: welcome to the world of large language models ✨
 
 [Practical](https://pierrepo.github.io/llm-practicals/)
 | [Source](https://github.com/pierrepo/llm-practicals) 
