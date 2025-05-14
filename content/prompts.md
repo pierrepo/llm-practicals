@@ -4,12 +4,12 @@
 
 1. Create an account on:
     - a commercial platform ([ChatGPT](https://chatgpt.com/) from OpenAI, [Le Chat](https://chat.mistral.ai/) from Mistral AI or [Gemini](https://gemini.google.com/app) from Google)
-    - an open-source platform (https://llm.mi.parisdescartes.fr/)
+    - an open-source platform hosted at Université Paris Cité : https://pleiade.mi.parisdescartes.fr/ (Please, use your academic email address to create an account).
 2. Try the same prompt on both platforms. Do some models need more context (i.e. explanations) than others to give expected results?
 3. Evaluate the different models for:
     - Text production ("Write a 10-line text about...")
     - Text summarization ("Summarize the following text in 5 lines...")
-    - Code production ("Write a Python function that extracts and prints sequence length from a FASTA file named 'sequences.fasta'. Add comments to explain how the function works.") Share your code in a shared document.
+    - Code production ("Write a Python function that extracts and prints sequence length from a FASTA file named 'sequences.fasta'. Add comments to explain how the function works."). Share your code in a shared document. Could you produce a code to do the same task in R?
 
 
 ## Success and failure with math problems
