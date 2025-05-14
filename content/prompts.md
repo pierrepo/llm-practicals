@@ -4,7 +4,7 @@
 
 1. Create an account on:
     - a commercial platform ([ChatGPT](https://chatgpt.com/) from OpenAI, [Le Chat](https://chat.mistral.ai/) from Mistral AI or [Gemini](https://gemini.google.com/app) from Google)
-    - an open-source platform hosted at Université Paris Cité : https://pleiade.mi.parisdescartes.fr/ (Please, use your academic email address to create an account).
+    - an open-source platform hosted at Université Paris Cité : https://pleiade.mi.parisdescartes.fr/ (Please, use your academic email address to create an account. A couple of hours may needed for validation).
 2. Try the same prompt on both platforms. Do some models need more context (i.e. explanations) than others to give expected results?
 3. Evaluate the different models for:
     - Text production ("Write a 10-line text about...")
