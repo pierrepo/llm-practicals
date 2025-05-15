@@ -5,7 +5,7 @@ Open OpenAI Tokenizer in a web browser: <https://platform.openai.com/tokenizer>
 ## Tokens are not words
 
 1. Select “GPT-4o & GPT-4o mini”
-2. Enter the sentence below
+2. Enter the sentence below:
 
     > You need to know bioinformatics.
 
