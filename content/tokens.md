@@ -9,7 +9,7 @@ Open OpenAI Tokenizer in a web browser: <https://platform.openai.com/tokenizer>
 
     > You need to know bioinformatics.
 
-3. Tokens are colored in various color. One token = one colored block.
+3. Tokens are colored in various colors. One token = one colored block.
 4. How many tokens are used to represent the sentence above?
 5. Pay attention to token delimitations (color blocks). How are spaces handled?
 6. How many tokens are used to represent the word “bioinformatics”?
