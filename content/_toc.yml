@@ -6,11 +6,12 @@ root: intro
 parts:
   - caption: Part 1 - no code
     chapters: 
-    - file: tokens
-    - file: embeddings
-    - file: next_token_prediction
-    - file: prompts
+    - file: tokens.md
+    - file: embeddings.md
+    - file: next_token_prediction.md
+    - file: prompts.md
   - caption: Part 2 - with code
     chapters:
+    - file: setup.md
     - file: tokenizer_embeddings_python
-    - file: api
+    - file: api.ipynb
