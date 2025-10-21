@@ -1,4 +1,4 @@
-# Setup the hands-on environment
+# Setup the environment
 
 ```{warning}
 Manipulating embeddings requires a Python environment with specific libraries installed.
