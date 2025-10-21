@@ -1,5 +1,9 @@
 # Tokens
 
+A token is a basic unit of text used in Natural Language Processing (NLP) and computational linguistics. Tokenization is the process of splitting text into tokens. It is one of the first steps in preparing text before using language models like BERT or GPT.
+
+---
+
 Open OpenAI Tokenizer in a web browser: <https://platform.openai.com/tokenizer>
 
 ## Tokens are not words
@@ -15,7 +19,7 @@ Open OpenAI Tokenizer in a web browser: <https://platform.openai.com/tokenizer>
 6. How many tokens are used to represent the word “bioinformatics”?
 
 ```{note}
-Large language models (LLMs) can use a limited set of words called tokens. When a word is not in a LLM vocabulary, it is chunked into multiple tokens. For instance, `bioinformatics` (actually ` bioinformatics`) is chunked into two tokens: ` bio` and `informatics`.
+Large language models (LLMs) can use a limited set of words called tokens. When a word is not in a LLM vocabulary, it is chunked into multiple tokens. For instance, `bioinformatics` (actually `  bioinformatics`) is chunked into two tokens: `  bio` and `informatics`.
 ```
 
 7. Keep the same sentence as above, and click on “GPT-3 (Legacy)”
@@ -23,7 +27,7 @@ Large language models (LLMs) can use a limited set of words called tokens. When 
 
 Each LLM has its owns vocabulary (set of tokens). GPT-4o’s vocabulary has about 200,000 tokens, whereas GPT-4's has 100,000 tokens and GPT2’s vocabulary has 50,000 tokens. Complex words like “bioinformatics” are easier to represent with a large vocabulary. However, larger vocabularies require more memory and computation.
 
-9. Find out other examples of words that are chunked into multiple tokens. Try with different tokenizers ("GPT-4o", "GPT-4", "GPT-3").
+9. Find out other examples of words that are chunked into multiple tokens. Try with different tokenizers (“GPT-4o & GPT-4o mini”, "GPT-3.5 & GPT-4", "GPT-3 (Legacy)").
 
 
 ## Tokens are more than words
@@ -31,10 +35,10 @@ Each LLM has its owns vocabulary (set of tokens). GPT-4o’s vocabulary has abou
 1. Switch back to “GPT-4o & GPT-4o mini”
 2. Enter the sentences below: 
     > What is biology? Biology is the scientific study of life and living organisms.
-3. Click on the “Token IDs” button (below the colored tokens). Each number corresponds to a given token. By clicking back and forth on the "Text" and "Token IDs" buttons, identify the tokens ids associated to the words “ biology” and “ Biology”? Are they identical?
+3. Click on the “Token IDs” button (below the colored tokens). Each number corresponds to a given token. By clicking back and forth on the "Text" and "Token IDs" buttons, identify the tokens ids associated to the words ` biology` and ` Biology`? Are they identical?
 
 ```{note}
-Tokens are context-dependent. A capital letter or a space could lead to very different tokens. 
+Tokens are context-dependent. A capital letter or a space could lead to different tokens. 
 ```
 
 
@@ -43,7 +47,9 @@ Tokens are context-dependent. A capital letter or a space could lead to very dif
 1. Enter a sentence (for instance, “What is DNA?”) and find out how many tokens are used to express this sentence.
 2. Try the same sentence in different languages? What do you observe regarding the number of tokens used?
 
-Most LLM vocabularies are based on the English language. Words and phrases in other languages could be represented with tokens, but usually with more tokens.
-This is important given that the cost of LLM usage is per token. For instance, 1 million input tokens cost 5,00 $US with the GPT-4o model.
+```{note}
+Most LLM vocabularies are based on the English language. Words and phrases in other languages could also be represented with tokens, but usually with more tokens.
+This is important given that the cost of LLM usage is per token. For instance, 1 million input tokens cost 5.00 $US with the GPT-4o model.
+```
 
-3. Find out other examples with different languages (for instance "J'aime la bioinfo") and tokenizers. Share your most interesting findings in a shared document.
+3. Find out other examples with different languages (for instance "J'aime la bioinformatique" in French) and tokenizers.
