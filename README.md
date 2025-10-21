@@ -5,18 +5,26 @@
 [Practical](https://pierrepo.github.io/llm-practicals/)
 | [Source](https://github.com/pierrepo/llm-practicals) 
 
-## Content compilation
+
+## Course compilation
 
 
-Install [Pixi](https://pixi.sh/latest/).
+Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
+
+Clone this repository:
+
+```bash
+$ git clone https://github.com/pierrepo/llm-practicals
+$ cd llm-practicals
+```
 
 Compile:
 
 ```bash
-$ pixi run compile
+$ uv run jupyter-book build content
 ```
 
-The HTML version of the practical is located in the `content/_build/html/index.html` directory.
+The HTML version of the practical is located in the `content/_build/html/` directory.
 
 
 ## License

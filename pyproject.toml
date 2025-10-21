@@ -1,0 +1,15 @@
+[project]
+name = "llm-practicals-git"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyterlab>=4.4.9",
+    "numpy>=2.3.4",
+]
+
+[dependency-groups]
+dev = [
+    "jupyter-book>=1.0.4.post1",
+]
