@@ -13,5 +13,5 @@ parts:
   - caption: Part 2 - with code
     chapters:
     - file: setup.md
-    - file: tokenizer_embeddings_python
-    - file: api.ipynb
+    - file: notebooks/tokenizer_embeddings_python
+    - file: notebooks/api.ipynb
