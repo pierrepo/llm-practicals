@@ -5,11 +5,11 @@
 1. Create an account on:
     - a commercial platform ([ChatGPT](https://chatgpt.com/) from OpenAI, [Le Chat](https://chat.mistral.ai/) from Mistral AI or [Gemini](https://gemini.google.com/app) from Google)
     - an open-source platform hosted at Université Paris Cité : https://pleiade.mi.parisdescartes.fr/ (Please, use your academic email address to create an account. A couple of hours may be needed for validation).
-2. Try the same prompt on both platforms. Do some models need more context (i.e. explanations) than others to give expected results?
+2. Try the same prompt on different platforms. Do some models need more context (i.e. explanations) than others to give expected results?
 3. Evaluate the different models for:
     - Text production ("Write a 10-line text about...")
     - Text summarization ("Summarize the following text in 5 lines...")
-    - Code production ("Write a Python function that extracts and prints sequence length from a FASTA file named 'sequences.fasta'. Add comments to explain how the function works."). Share your code in a shared document. Could you produce a code to do the same task in R?
+    - Code production ("Write a Python function that extracts and prints sequence length from a FASTA file named 'sequences.fasta'. Add comments to explain how the function works."). Share your best (or worst) code with the group. Could you produce a code to do the same task in R?
 
 
 ## Success and failure with math problems
@@ -78,14 +78,14 @@ What is the total cost of the gifts after the rebate?
 ```
 
 
-Most LLMs should succeed in these challenges, mostly because they come from a well-known dataset ([gsm8k](https://huggingface.co/datasets/openai/gsm8k)) they could have already been trained on. Try to create your own math problem and find out how LLMs behave. Share your most interesting problems in a shared document.
+Most LLMs should succeed in these challenges, mostly because they come from a well-known dataset ([gsm8k](https://huggingface.co/datasets/openai/gsm8k)) they could have already been trained on. Try to create your own math problem and find out how LLMs behave. Share your most interesting problems with the group.
 
 
 ## Difficult questions
 
 Since LLMs are not able to reason, they can fail on simple questions. Challenge various LLMs with the following ones:
 
-- Give me 10 sentences that end in the word "Apple"
+- Give me 10 sentences that end with the word "Apple"
 - Écris 10 phrases qui se terminent par le mot "clavier"
 - How many Rs are in the word "strawberry"?
 - I have 5 shirts that will take 6 hours to dry in the sun. How long will it take 30 shirts to dry?
@@ -96,5 +96,4 @@ Since LLMs are not able to reason, they can fail on simple questions. Challenge 
 
 Jailbreaking a LLM is a technique that consists of designing a prompt to bypass the safety mechanisms of the LLM to reveal information it should not.
 
-[Gandalf](https://gandalf.lakera.ai/) is a web application that allows you to test your prompt injection skills by trying to force a LLM to reveal a password. Give it a try.
-
+[Gandalf](https://gandalf.lakera.ai/) is a web application that allows you to test your jailbreaking skills by trying to force a LLM to reveal a password. Give it a try.
