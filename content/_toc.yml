@@ -13,7 +13,7 @@ parts:
   - caption: Part 2 - with code
     chapters:
     - file: setup.md
-    - file: notebooks/tokenizer.ipynb
-    - file: notebooks/word_embeddings.ipynb
-    - file: notebooks/sentence_embeddings.ipynb
-    - file: notebooks/api.ipynb
+    - file: notebooks/1_tokenizer.ipynb
+    - file: notebooks/2_word_embeddings.ipynb
+    - file: notebooks/3_sentence_embeddings.ipynb
+    - file: notebooks/4_llm_api.ipynb
