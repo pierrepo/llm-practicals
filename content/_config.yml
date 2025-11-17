@@ -3,6 +3,7 @@
 
 title: LLM practicals
 author: Pierre Poulain
+copyright: "2025"
 logo: img/logo_UPCite.png
 exclude_patterns: [_build, .pixi, "**.ipynb_checkpoints", gromacs_ref_manual]
 
