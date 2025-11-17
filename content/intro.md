@@ -3,7 +3,7 @@
 > Tokens, embeddings and prompts: welcome to the world of large language models ✨
 
 
-Slides of the course are available [here](https://doi.org/10.5281/zenodo.13976656).
+<!-- Slides of the course are available [here](https://doi.org/10.5281/zenodo.13976656). -->
 
 
 ## Table of contents
