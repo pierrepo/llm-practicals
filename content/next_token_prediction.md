@@ -23,6 +23,6 @@ The LLM model used here is GPT-2, a rather small (but open) model with *only* 12
 
 You can also take a look at the [TextSynth](https://textsynth.com/completion.html) app that will complete text from a short input ("Biology is", "My name is"...). Many larger models are available.
 
-## moebio.com
+## Moebio
 
 Finally, open the interactive application [moebio.com](https://moebio.com/mind/). Set your web browser to full-screen mode and explore the construction of a sentence, token by token, from left to right. As the application is very responsive, move your mouse very slowly. On the far left, observe the path explored by the different tokens in the semantic space. ✨
