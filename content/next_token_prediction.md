@@ -19,10 +19,21 @@
 The LLM model used here is GPT-2, a rather small (but open) model with *only* 124 million parameters. LLM like GPT-4 counts about 1.76 trillion (1,760 millions) parameters.
 ```
 
+## GPT-2 vs Gemma 3
+
+Open this other [next token prediction](https://cupnet.net/llm-practicals/next-token-prediction-gpt2-gemma3.html) application with wich you will be able to compare the next token prediction mechanism for two langage models:
+
+- GPT-2, 2019 model, 124 millions parameters, 50,257-token vocabulary
+- Gemma 3, 2025 model, 270 million parameters, 262,144-token vocabulary
+
+```{warning}
+These models run entirely in your web browser. Please leave enought time for the models to be downloaded
+```
+
 ## TextSynth
 
 You can also take a look at the [TextSynth](https://textsynth.com/completion.html) app that will complete text from a short input ("Biology is", "My name is"...). Many larger models are available.
 
 ## Moebio
 
-Finally, open the interactive application [moebio.com](https://moebio.com/mind/). Set your web browser to full-screen mode and explore the construction of a sentence, token by token, from left to right. As the application is very responsive, move your mouse very slowly. On the far left, observe the path explored by the different tokens in the semantic space. ✨
+Finally, open the interactive application [moebio.com](https://moebio.com/mind/). Set your web browser to full-screen mode and explore the construction of a sentence, token by token, from left to right. As the application is very responsive, move your mouse *very* slowly. On the far left, observe the path explored by the different tokens in the semantic space. ✨
