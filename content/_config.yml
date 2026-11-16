@@ -16,6 +16,10 @@ execute:
 parse:
   myst_links_external_new_tab: true 
 
+sphinx:
+  config:
+    html_extra_path: ["assets"]
+
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
